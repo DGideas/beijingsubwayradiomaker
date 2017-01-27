@@ -70,7 +70,7 @@ int main(int argc, char* argv[])
 		{"Shilihe", "", "line 10"},
 		{"Fangzhuang", "", ""},
 		{"Puhuangyu", "", "line 5"},
-		{"Jingtai", "", ""},
+		{"Jiangtai", "", ""},
 		{"Yongdingmenwai", "", ""},
 		{"Taoranqiao", "closed", ""},
 		{"Beijing south railway station",
