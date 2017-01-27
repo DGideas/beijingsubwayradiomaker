@@ -77,7 +77,7 @@ int main(int argc, char* argv[])
 	};
 	string lineName = "京港地铁十四号线";
 	string res = "";
-	bool direction = false; // T:下行
+	bool direction = true; // T:下行, F:上行
 	if (direction)
 	{
 		for (vector<vector<string>>::iterator i = stationList.begin();
